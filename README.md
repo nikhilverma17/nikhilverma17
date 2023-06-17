@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning about **Mongo DB and React JS.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikhilverma17?tab=repositories](https://github.com/nikhilverma17?tab=repositories)
+- 👨‍💻 Most of my projects are available at <a href="https://github.com/nikhilverma17?tab=repositories" target="blank">Github</a>
 
 - 💬 Ping me about **HTML, CSS, JavaScript, and Marvel stuff.**
 
