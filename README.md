@@ -15,9 +15,18 @@
   <a href="https://twitter.com/thenikhil_verma" target="blank"><img src="https://img.shields.io/twitter/follow/thenikhil_verma?logo=twitter&style=for-the-badge" alt="thenikhil_verma" /></a> </p><be><br>
 
 <h1>Projects</h1>
-- [To-Do List](https://todolist-4vzg.onrender.com/)
-- [Weather Forcast](https://nodejs-production-49e1.up.railway.app/)
-- [Nikhil's Blog](https://blushing-gold-pants.cyclic.app/)<br><br><br>
+# Readme
+
+This repository contains the following resources:
+
+- [To-Do List](https://todolist-4vzg.onrender.com/): A web application for managing your tasks and creating to-do lists.
+
+- [Weather Forecast](https://nodejs-production-49e1.up.railway.app/): A weather forecast service that provides up-to-date weather information.
+
+- [Nikhil's Blog](https://blushing-gold-pants.cyclic.app/): A personal blog by Nikhil, covering various topics of interest.
+
+
+
 
 - 🔭 I’m currently working on [To-Do List](https://github.com/nikhilverma17/todolist)
 
