@@ -27,10 +27,12 @@
 - ⚡ Fun fact **I love to cook and eat.**
 
 - 🤝  I'm open to collaborating on **interesting projects.**
-- Projects<br>
-- [To-Do List](https://todolist-4vzg.onrender.com/)<br>
--[Weather Forcast](https://nodejs-production-49e1.up.railway.app/)<br>
--[Nikhil's Blog](https://blushing-gold-pants.cyclic.app/)<br>
+
+  
+  <h1>Projects</h1>h1><br>
+- [To-Do List](https://todolist-4vzg.onrender.com/)
+- [Weather Forcast](https://nodejs-production-49e1.up.railway.app/)
+- [Nikhil's Blog](https://blushing-gold-pants.cyclic.app/)<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
