@@ -8,8 +8,9 @@
  <img  height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" align="center" />
 </p>
 Projects
--[To-Do List](https://todolist-4vzg.onrender.com/)
--[Weather Forcast](https://nodejs-production-49e1.up.railway.app/)
+<br>
+-[To-Do List](https://todolist-4vzg.onrender.com/)<br>
+-[Weather Forcast](https://nodejs-production-49e1.up.railway.app/)<br>
 -[Nikhil's Blog](https://blushing-gold-pants.cyclic.app/)
 
   <p align="center"><img src="https://komarev.com/ghpvc/?username=nikhilverma17&style=for-the-badge&color=brightgreen" align="center"></p>
