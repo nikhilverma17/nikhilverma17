@@ -15,15 +15,7 @@
   <a href="https://twitter.com/thenikhil_verma" target="blank"><img src="https://img.shields.io/twitter/follow/thenikhil_verma?logo=twitter&style=for-the-badge" alt="thenikhil_verma" /></a> </p><be><br>
 
 <h1>Projects</h1><br>
-<!-- 🔭 I’m currently working on [To-Do List](https://github.com/nikhilverma17/todolist)
 
-- 🌱 I’m currently learning about **Mongo DB and React JS.**
-
-- 👨‍💻 Most of my projects are available at <a href="https://github.com/nikhilverma17?tab=repositories" target="blank">Github</a>
-
-- 💬 Ping me about **HTML, CSS, JavaScript, and Marvel stuff.**
-
-- 📫 How to reach me **iamvermanikhil@gmail.com** -->
 - [To-Do List](https://todolist-4vzg.onrender.com/)
 - [Weather Forcast](https://nodejs-production-49e1.up.railway.app/)
 - [Nikhil's Blog](https://blushing-gold-pants.cyclic.app/)<br>
