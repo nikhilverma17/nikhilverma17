@@ -15,6 +15,7 @@
 - [Weather Forecast](https://nodejs-production-49e1.up.railway.app/): A weather forecast service that provides up-to-date weather information.
 
 - [Nikhil's Blog](https://blushing-gold-pants.cyclic.app/): A personal blog by Nikhil, covering various topics of interest.
+- [Tally Counter](https://tallycounter.onrender.com): A react app used for tally counting.
 
   <p align="center"><img src="https://komarev.com/ghpvc/?username=nikhilverma17&style=for-the-badge&color=brightgreen" align="center"></p>
 
@@ -27,9 +28,9 @@
 
 
 
-- 🔭 I’m currently working on [To-Do List](https://github.com/nikhilverma17/todolist)
+- 🔭 I’m currently working on [Keeper's App](https://github.com/nikhilverma17/todolist)
 
-- 🌱 I’m currently learning about **Mongo DB and React JS.**
+- 🌱 I’m currently learning about **React JS.**
 
 - 👨‍💻 Most of my projects are available at <a href="https://github.com/nikhilverma17?tab=repositories" target="blank">Github</a>
 
