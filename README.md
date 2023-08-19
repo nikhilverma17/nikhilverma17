@@ -9,7 +9,7 @@
 </p>
 <h1>Projects</h1>
 
-- [ChatGram](https://chatgram-0xsk.onrender.com): A react Real time Chatting App.
+- [ChatGram](https://chatgram-0xsk.onrender.com/login): A react Real time Chatting App.
  
 - [To-Do List](https://todolist-4vzg.onrender.com/): A web application for managing your tasks and creating to-do lists.
 
