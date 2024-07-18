@@ -17,14 +17,10 @@
   <h2 align="center">Skills</h2>
   <h4 align="center">SQL | Python | Excel | Power BI | Data Visualization | Statistical Analysis | Data Cleaning | Database Management | Data Wrangling</h4>
 
-  <h2 align="center">Projects</h2>
-  <ul>
-    <li><a href="https://chatgram-0xsk.onrender.com/login">ChatGram</a>: Real-time Chatting App using React</li>
-    <li><a href="https://todolist-4vzg.onrender.com/">To-Do List</a>: Task Management Web Application</li>
-    <li><a href="https://nodejs-production-49e1.up.railway.app/">Weather Forecast</a>: Provides up-to-date weather information</li>
-    <li><a href="https://blushing-gold-pants.cyclic.app/">Nikhil's Blog</a>: Personal blog covering various topics</li>
-    <li><a href="https://tallycounter.onrender.com">Tally Counter</a>: React app for tally counting</li>
-  </ul>
+  <h2 align="center">Portfolio</h2>
+  <p align="center">
+    <a href="https://nikhil-verma-portfolio.netlify.app/">View my portfolio</a>
+  </p>
 
   <h2 align="center">Connect with Me</h2>
   <p align="center">
